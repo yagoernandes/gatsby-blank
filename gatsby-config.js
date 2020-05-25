@@ -4,6 +4,10 @@
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
 
+/**
+  yarn add gatsby-plugin-react-helmet gatsby-plugin-sitemap gatsby-plugin-nprogress gatsby-plugin-manifest gatsby-plugin-styled-components gatsby-plugin-page-creator babel-plugin-styled-components react-helmet gatsby-plugin-offline
+*/
+
 const siteMetadata = require("./config/metadata")
 
 module.exports = {
